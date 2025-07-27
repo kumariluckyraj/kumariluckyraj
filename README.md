@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**kumariluckyraj/kumariluckyraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Lucky Raj – a passionate developer exploring web technologies!
 
-Here are some ideas to get you started:
+## 🔧 Technologies I work with:
+- React, Tailwind CSS, JavaScript, Next.js
+- Node.js, Express
+- Generative AI
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me:
+- [LinkedIn](www.linkedin.com/in/kumari-lucky-raj-2a52b0323)
+[Email](dezikumar92@gmail.com)
