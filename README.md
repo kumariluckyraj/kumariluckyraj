@@ -10,4 +10,4 @@ I'm Lucky Raj – a passionate developer exploring web technologies!
 
 ## 📫 Connect with me:
 - [LinkedIn](www.linkedin.com/in/kumari-lucky-raj-2a52b0323)
-[Email](dezikumar92@gmail.com)
+
