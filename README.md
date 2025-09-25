@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Kumari Lucky Raj – a passionate developer exploring web technologies!
+I'm Kumari Lucky Raj – a passionate developer exploring web technologies and AI!
 
 ## 🔧 Technologies I work with:
 - Next.js, React, Tailwind CSS, JavaScript, Python, Flask
