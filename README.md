@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Kumari Lucky Raj – a passionate developer exploring web technologies and AI!<br> Technologies I work with:<br>Next.js, React, Tailwind CSS, JavaScript, Python, Flask<br>Node.js, Express<br>Generative AI<br>Git & GitHub
+I'm Kumari Lucky Raj – Full-stack AI developer building scalable web and mobile applications with Agentic AI, Next.js, React, and. 3x hackathon winner with internship and freelancing experience shipping real-world products.
 
 
 ## 🌐 Socials:
